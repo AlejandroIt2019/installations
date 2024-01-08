@@ -1,4 +1,4 @@
-# Instalaciones recomendadas - Curso de React
+# Instalaciones recomendadas
 
 ## Instalaciones Necesarias
 * [Brave](https://brave.com/)
